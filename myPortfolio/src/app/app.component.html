@@ -1,0 +1,31 @@
+<div class="container" style="background-color: rgb(180, 180, 202)">
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <ul class="nav navbar-nav float-left" routerLinkActive="active">
+      <li class="nav-item">
+        <a class="btn btn-primary" routerLink="/">myPortFolio</a>
+      </li>
+      <li class="nav-item">
+        <a class="btn btn-primary m-3" routerLink="/contactus">contact me</a>
+      </li>
+    </ul>
+    <ul
+      class="nav navbar-nav"
+      style="margin-left: 70%"
+      routerLinkActive="active"
+    >
+      <li class="nav-item">
+        <a class="btn btn-primary" routerLink="/signin" style="margin: 5px"
+          >Sign In</a
+        >
+      </li>
+      <li class="nav-item">
+        <a class="btn btn-primary" routerLink="/signup" style="margin: 5px"
+          >Sign Up</a
+        >
+      </li>
+    </ul>
+  </nav>
+  <div class="container">
+    <router-outlet></router-outlet>
+  </div>
+</div>
