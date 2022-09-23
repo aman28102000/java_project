@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Aman",
+      "lastName": "kumar",
+      "email": "aman@gmail.com",
+      "mobile": "7294930173",
+      "salary": "75000"
+    },
+    {
+      "id": 2,
+      "firstName": "Prince ",
+      "lastName": "Raj",
+      "email": "prince@gmail.com",
+      "mobile": "9852346217",
+      "salary": "54000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
