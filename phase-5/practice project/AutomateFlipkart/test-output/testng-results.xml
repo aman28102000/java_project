@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-11T11:21:01 IST" name="Default suite" finished-at="2022-10-11T11:22:41 IST" duration-ms="99627">
+    <groups>
+    </groups>
+    <test started-at="2022-10-11T11:21:01 IST" name="Default test" finished-at="2022-10-11T11:22:41 IST" duration-ms="99627">
+      <class name="com.samples.flipkartTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.samples.flipkartTest@2a54a73f]" started-at="2022-10-11T11:21:01 IST" name="beforeMethod" finished-at="2022-10-11T11:21:04 IST" duration-ms="3190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="LoadTime()[pri:0, instance:com.samples.flipkartTest@2a54a73f]" started-at="2022-10-11T11:21:04 IST" name="LoadTime" finished-at="2022-10-11T11:21:33 IST" duration-ms="28775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadTime -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.samples.flipkartTest@2a54a73f]" started-at="2022-10-11T11:21:33 IST" name="afterMethod" finished-at="2022-10-11T11:21:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.samples.flipkartTest@2a54a73f]" started-at="2022-10-11T11:21:33 IST" name="beforeMethod" finished-at="2022-10-11T11:21:34 IST" duration-ms="794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="search()[pri:0, instance:com.samples.flipkartTest@2a54a73f]" started-at="2022-10-11T11:21:34 IST" name="search" finished-at="2022-10-11T11:22:41 IST" duration-ms="66836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.samples.flipkartTest@2a54a73f]" started-at="2022-10-11T11:22:41 IST" name="afterMethod" finished-at="2022-10-11T11:22:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.samples.flipkartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
